@@ -1,2 +1,5 @@
-# bocchi-web
-A hero landing page assignment for The Odin Project.
+# kessoku-band
+
+A hero landing webpage assignment for The Odin Project.
+
+No responsive implementation.
