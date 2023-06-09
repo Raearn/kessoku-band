@@ -130,8 +130,8 @@ input, button, textarea, select {
 .char-section {
     display:flex;
     flex-direction: column;
-    height:60vh;
     padding-top:4em;
+    padding-bottom: 8em;
 }
 
 .card-content {
@@ -153,6 +153,7 @@ input, button, textarea, select {
     display:flex;
     justify-content: center;
     gap:3em;
+    flex-wrap: wrap;
 }
 
 .char-header, .card-text {
