@@ -280,6 +280,5 @@ a, a:active {
 }
 
 .card-content:hover {
-    width:220px;
-    height:270px;
+    transform:scale(1.05);
 }
